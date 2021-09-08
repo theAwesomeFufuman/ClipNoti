@@ -7,7 +7,7 @@ This is a small AutoHotkey script that notifies you when you have successfully c
 ## Why?
 Has this ever happened to you?
 
-![Demo](https://media.giphy.com/media/SfWtDSmPLy62ZmXOpw/source.gif?cid=790b7611773a43bdddf1d9daf28b80ebfbafd0379157a82f&rid=source.gif&ct=g)
+![Demo](demo.gif)
 
 Far too many times I have tried to copy something but accidentally misclicked the Fn button without realizing it. This script lets you know when you have actually pressed Ctrl + C or not.
 
@@ -28,7 +28,7 @@ Using the script is pretty simple;
  2. Try to Copy something
  3. Success
 
-![ClipNoti in action](https://i.imgur.com/rEoDsnL.gif)
+![ClipNoti in action](ClipNoti.gif)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
