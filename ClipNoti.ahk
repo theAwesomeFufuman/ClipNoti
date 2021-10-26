@@ -1,4 +1,6 @@
-﻿#Persistent
+﻿RestoreCursors()
+
+#Persistent
 OnClipboardChange("AnimateCursor")
 AnimateCursor()
 {
